@@ -49,7 +49,7 @@ dask==0.20.2
 decorator==4.3.0
 defusedxml==0.5.0
 dill==0.2.8.2
-distributed==1.25.2
+distributed==2021.10.0
 Django==1.11.18
 dlib==19.16.0
 dm-sonnet==1.23
