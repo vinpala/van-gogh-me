@@ -215,7 +215,7 @@ patsy==0.5.1
 pbr==5.1.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==4.0.0
+Pillow==9.3.0
 plac==0.9.6
 plotly==1.12.12
 pluggy==0.8.1
